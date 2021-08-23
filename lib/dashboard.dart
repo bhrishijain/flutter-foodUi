@@ -22,7 +22,7 @@ class _DashboardState extends State<Dashboard> with SingleTickerProviderStateMix
       body: ListView(
         children: [
           Padding(
-            padding: EdgeInsets.all(15.0),
+            padding: EdgeInsets.all(12.0),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
